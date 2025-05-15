@@ -9,7 +9,7 @@ public class Practice1 {
         }
           return z;
       }
-      static int logic2(int x, int y){
+     public static int logic2(int x, int y){
           int z1;
           z1 = x-y;
           return z1;
