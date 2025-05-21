@@ -18,8 +18,8 @@ public class ExciptionRunner {
         int num = scanner.nextInt();
         if (num < 9) {
             try {
-               // throw new MyExciption();
-                 throw  new ArithmeticException("exciption hai ye ");
+                throw new MyExciption();
+                 //throw  new ArithmeticException("exciption hai ye ");
             } catch (Exception e) {
                 System.out.println(e.getMessage());
                 System.out.println(e.toString());
