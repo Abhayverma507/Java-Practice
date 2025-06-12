@@ -26,6 +26,7 @@ public class Arraylist {
         arrayList2.add(44);
         arrayList2.add(44);
 
+
        // arrayList2.addFirst(5454);
         arrayList.addAll(0, arrayList2);
         //arrayList.set(3, 56);
